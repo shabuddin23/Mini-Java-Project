@@ -81,22 +81,6 @@ Modular code structure with services
 
 👨‍💻 Author
 Mohammed Shabuddin
-B.Tech in Computer Science and Engineering
-Hyderabad, India
 
 
----
 
-### ✅ Why this is GitHub-ready
-- Proper Markdown formatting
-- Clean headings & code blocks
-- Recruiter-friendly
-- Professional structure
-
-If you want, I can also:
-- shorten this for **resume GitHub link**
-- add **badges (Java, GitHub)**
-- write a **one-line project summary**
-- optimize it for **ATS/recruiters**
-
-Just tell me 👍
